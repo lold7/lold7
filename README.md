@@ -26,3 +26,6 @@ I'm Anawat Jandee<br>Student - Chiang Mai University
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/lold7/lold7/output/snake.svg" alt="Snake animation" />
+
+###
