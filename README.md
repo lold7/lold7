@@ -1,8 +1,8 @@
-# 💫 Hello World:
+# ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello World:
 I'm Anawat Jandee<br>Student - Chiang Mai University
 
 
-## 🌐 Socials:
+## 🌐 Contact:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hxney_fruit) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@earthearth3562) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100014324612536)
 
 # 💻 Tech Stack:
